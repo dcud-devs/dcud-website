@@ -1,16 +1,20 @@
-# Hello, I'm Marco
+# Die dummen 8
 
-I'm a random guy from germany that likes tech and programming.
+Hey, we are some programmers and some people that like tech.
 
-[GitHub](https://github.com/mmmarco-de) ; [Bluesky](https://bsky.app/profile/mmmarco.de) ; [Blog](/blog/) ; [Email](mailto:marco@mmmarco.de)
+[GitHub](https://github.com/Die-dummen-8) ; [Bluesky](https://bsky.app/profile/acht.mmmarco.de) ; [Email](mailto:acht@acht.mmmarco.de)
 
-## Projects
+## Who are we?
 
-[goPage](https://gopage.mmmarco.de) : A simple costum homepage for your webbrowser with a simple search box
+[mmmarco-de](/pages/marco.html) <sub style="font-size: x-small">Marco</sub> : Hey, I'm Marco and just a random guy from germany that likes tech and programming
 
-[iEKS](https://eks-i.mmmarco.de) : Ein Kack Spiel - but with a costum design
+[tbored](/pages/timo.html) <sub style="font-size: x-small">Timo</sub> : bored but to lazy to actually do anything
 
-[mmmarco.de](https://mmmarco.de) : My website and the blog that I've build
+## What do we do?
+
+We make some games using HTML, CSS and JavaScript and we also make some websites.
+
+[**See our projects**](/projects)
 
 ****
-[Homepage](/) ; [Blog](/blog/) ; [Email](mailto:marco@mmmarco.de)
+[Homepage](/) ; [Email](mailto:acht@acht.mmmarco.de)
