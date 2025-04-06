@@ -5,7 +5,7 @@
 # Redirects @ dcud
 /repo https://github.com/dcud-dev/dcud-website
 
-/* https://github.com/dcud-devs/dcud-website/hello.md
+/* https://raw.githubusercontent.com/dcud-devs/dcud-website/refs/heads/main/hello.md
 
 # 404 ERROR
 /* /404.html 404
